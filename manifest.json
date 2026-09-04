@@ -1,0 +1,12 @@
+{
+  "name": "Elephant",
+  "short_name": "Elephant",
+  "description": "Navega libre. Navega seguro.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0A1A",
+  "theme_color": "#0D0A1A",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
